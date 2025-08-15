@@ -1,27 +1,27 @@
 # 👋 Hey, I'm Pablo
 
-Building apps that don't suck for humans who aren't robots.
+Building apps with personality that actually solve problems.
 
 ## 🎯 Currently Working On
 
 **[Button Studio](https://github.com/pibulus/button-studio)** - Voice button design studio  
-*Making voice UI less corporate, more human*
+*Customizable recording buttons for websites*
 
 **[RackOff](https://github.com/pibulus/rackoff)** - Desktop cleaner with attitude  
 *Mac app that doesn't take itself seriously*
 
-**[Spellbreak](https://github.com/pibulus/spellbreak)** - Mystical typing game  
-*Break spells by typing fast*
+**[Spellbreak](https://github.com/pibulus/spellbreak)** - Mystical break reminder  
+*Unskippable screen breaks with aurora effects*
 
 ## ⭐ Philosophy
 
 **people not robots** • pro choice, pro palestine, pro wrestling
 
 Give me SLACK or kill me - I build software that:
-- Has personality instead of corporate speak
+- Has actual personality
 - Reduces friction instead of adding complexity  
-- Makes scary dev stuff friendly
-- Sparks joy rather than stress
+- Makes intimidating stuff approachable
+- Works the way you think, not the way computers think
 
 ## 🛠 Things I Make
 
@@ -29,7 +29,7 @@ Give me SLACK or kill me - I build software that:
 Voice transcription with [ghost friends](https://github.com/pibulus/talktype) • [Song idea capture](https://github.com/pibulus/riffrap) • [Voice journaling](https://github.com/pibulus/daysay)
 
 **🎮 macOS Apps**  
-[Audio processing with moon magic](https://github.com/pibulus/hexbloop) • [Desktop cleaning](https://github.com/pibulus/rackoff) • [Typing games](https://github.com/pibulus/spellbreak)
+[Audio processing with moon magic](https://github.com/pibulus/hexbloop) • [Desktop cleaning](https://github.com/pibulus/rackoff) • [Mystical screen breaks](https://github.com/pibulus/spellbreak)
 
 **⚙️ Developer Tools**  
 [Git made friendly](https://github.com/pibulus/git-monkey) • [Todo lists that don't judge](https://github.com/pibulus/ziplist) • [System maintenance joy](https://github.com/pibulus/house-keeper)
