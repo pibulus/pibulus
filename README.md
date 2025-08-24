@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Pablo Andres
 
-I'm a Mexican Australian building apps with personality that actually solve problems.
-I also tour sweet international bands to Australia with my touring agency Bone Soup, 
-and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt 💜. (pic coming soon)
+*I'm a Mexican Australian building apps with personality that actually solve problems.*
+*I also tour sweet international bands to Australia with my touring agency Bone Soup,* 
+*and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt 💜. (pic coming soon)*
 
 SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
@@ -11,11 +11,11 @@ SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 **[Button Studio](https://github.com/pibulus/button-studio)** - API button design studio  
 *Customizable juicy lush buttons for single use applications*
 
-**[RackOff](https://github.com/pibulus/rackoff)** - Desktop cleaner that makes sense  
-*Mac app that doesn't take itself seriously*
+**[RackOff](https://github.com/pibulus/rackoff)** - Clean up your files lickety split
+*Mac app that makes filing a snap. Modular and super satisfying*
 
 **[Spellbreak](https://github.com/pibulus/spellbreak)** - Mystical break reminder  
-*Unskippable screen breaks with organicaly generated moon phase messages*
+*Unskippable screen breaks flowing with organicaly generated messages of wisdom and smoke*
 
 ## ⭐ Philosophy
 
