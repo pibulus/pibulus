@@ -19,11 +19,11 @@ SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
 ## ⭐ Philosophy
 
-**people not robots** • pro choice, pro palestine, pro wrestling
+**people not robots** 
 
 Give me SLACK or kill me - I build software that:
-- Has actual personality
-- Reduces friction instead of adding complexity  
+- Has chance for chaos and personality
+- Reduces friction to empower people  
 - Makes intimidating stuff approachable
 - Works the way you think, not the way computers think
 
@@ -33,7 +33,7 @@ Give me SLACK or kill me - I build software that:
 Voice transcription with [ghost friends](https://github.com/pibulus/talktype) • [Gibberish lyrics capture](https://github.com/pibulus/riffrap) • [Voice journaling](https://github.com/pibulus/daysay)
 
 **🎮 macOS Apps**  
-[Audio processing with moon magic](https://github.com/pibulus/hexbloop) • [Desktop cleaning](https://github.com/pibulus/rackoff) • [Mystical screen breaks](https://github.com/pibulus/spellbreak)
+[Audio processing chaos engine](https://github.com/pibulus/hexbloop) • [Desktop cleaning](https://github.com/pibulus/rackoff) • [Mystical screen breaks](https://github.com/pibulus/spellbreak)
 
 **⚙️ Developer Tools**  
 [Git made friendly](https://github.com/pibulus/git-monkey) • [Todo lists in a zip by voice!](https://github.com/pibulus/ziplist) • [System maintenance joy](https://github.com/pibulus/house-keeper)
