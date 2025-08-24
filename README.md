@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pablo Andres
 
-I'm Mexican Australian building apps with personality that actually solve problems.
+I'm a Mexican Australian building apps with personality that actually solve problems.
 I also tour sweet international bands to Australia with my touring agency Bone Soup, 
 and play satan scuzz garage noise with my band Mesa Cosa. My favourite band is the B52's and my cats name is Newt. (pic coming soon)
 
