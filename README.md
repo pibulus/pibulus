@@ -1,17 +1,21 @@
-# 👋 Hey, I'm Pablo
+# 👋 Hey, I'm Pablo Andres
 
-Building apps with personality that actually solve problems.
+I'm Mexican Australian building apps with personality that actually solve problems.
+I also tour sweet international bands to Australia with my touring agency Bone Soup, 
+and play satan scuzz garage noise with my band Mesa Cosa. My favourite band is the B52's and my cats name is Newt. (pic coming soon)
+
+SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
 ## 🎯 Currently Working On
 
-**[Button Studio](https://github.com/pibulus/button-studio)** - Voice button design studio  
-*Customizable recording buttons for websites*
+**[Button Studio](https://github.com/pibulus/button-studio)** - API button design studio  
+*Customizable juicy lush buttons for single use applications*
 
-**[RackOff](https://github.com/pibulus/rackoff)** - Desktop cleaner with attitude  
+**[RackOff](https://github.com/pibulus/rackoff)** - Desktop cleaner that makes sense  
 *Mac app that doesn't take itself seriously*
 
 **[Spellbreak](https://github.com/pibulus/spellbreak)** - Mystical break reminder  
-*Unskippable screen breaks with aurora effects*
+*Unskippable screen breaks with organicaly generated moon phase messages*
 
 ## ⭐ Philosophy
 
@@ -26,27 +30,19 @@ Give me SLACK or kill me - I build software that:
 ## 🛠 Things I Make
 
 **🎵 Creative Apps**  
-Voice transcription with [ghost friends](https://github.com/pibulus/talktype) • [Song idea capture](https://github.com/pibulus/riffrap) • [Voice journaling](https://github.com/pibulus/daysay)
+Voice transcription with [ghost friends](https://github.com/pibulus/talktype) • [Gibberish lyrics capture](https://github.com/pibulus/riffrap) • [Voice journaling](https://github.com/pibulus/daysay)
 
 **🎮 macOS Apps**  
 [Audio processing with moon magic](https://github.com/pibulus/hexbloop) • [Desktop cleaning](https://github.com/pibulus/rackoff) • [Mystical screen breaks](https://github.com/pibulus/spellbreak)
 
 **⚙️ Developer Tools**  
-[Git made friendly](https://github.com/pibulus/git-monkey) • [Todo lists that don't judge](https://github.com/pibulus/ziplist) • [System maintenance joy](https://github.com/pibulus/house-keeper)
+[Git made friendly](https://github.com/pibulus/git-monkey) • [Todo lists in a zip by voice!](https://github.com/pibulus/ziplist) • [System maintenance joy](https://github.com/pibulus/house-keeper)
 
 **🌐 Web Experiments**  
 [Journey-style multiplayer presence](https://github.com/pibulus/ambient-presence) for any website
 
-## 🌏 Where I Am
-
-Currently: Melbourne → Bangkok → wherever the vibes take me  
-Previously: Building things, breaking things, learning things
-
-## 💬 Let's Chat
-
-Ask me about making dev tools less intimidating, or just say hey!
 
 **Website**: [yay.omg.lol](https://yay.omg.lol/)
 
 ---
-*"compression > complexity, interfaces > implementations, friction reduction"*
+compression = simplicity = elegance = grace = joy
