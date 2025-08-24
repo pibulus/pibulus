@@ -1,11 +1,13 @@
 # 👋 Hey, I'm Pablo Andres
 
+![screenshot 33 Medium](https://github.com/user-attachments/assets/bd7c219b-58b6-4f0f-993e-07d829598e79)
+
+
 *I'm a Mexican Australian building apps with personality that actually solve problems.*
+
 *I also tour sweet international bands to Australia with my touring agency Bone Soup,* 
+
 *and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt 💜. (pic coming soon)*                       
-
-![screenshot 33](https://github.com/user-attachments/assets/819c62c4-2f14-4588-9da3-72e621e45f82)
-
 
 SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
