@@ -4,7 +4,8 @@
 *I also tour sweet international bands to Australia with my touring agency Bone Soup,* 
 *and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt 💜. (pic coming soon)*                       
 
-![Uploading screenshot 33.jpg…]()
+![screenshot 33](https://github.com/user-attachments/assets/819c62c4-2f14-4588-9da3-72e621e45f82)
+
 
 SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
