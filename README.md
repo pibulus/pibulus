@@ -3,11 +3,9 @@
 ![screenshot 33 Medium](https://github.com/user-attachments/assets/bd7c219b-58b6-4f0f-993e-07d829598e79)
 
 
-*I'm a Mexican Australian building apps with personality that actually solve problems.*
-
+*I'm a Mexican Australian building tools with personality that actually solve problems.*
 *I also tour sweet international bands to Australia with my touring agency Bone Soup,* 
-
-*and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt 💜. (pic coming soon)*                       
+*and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt.                   
 
 SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
