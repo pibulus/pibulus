@@ -4,8 +4,7 @@
 
 
 *I'm a Mexican Australian building tools with personality that actually solve problems.*
-*I also tour sweet international bands to Australia with my touring agency Bone Soup,* 
-*and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt.                   
+*I also tour sweet international bands to Australia with my touring agency Bone Soup, and play satan scuzz garage noise with my band Mesa Cosa. I'm a Libra. My favourite band is the B52's, and my cats name is Newt.                   
 
 SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
@@ -22,13 +21,17 @@ SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
 ## ⭐ Philosophy
 
-**people not robots** 
+**people not robots** **democatrize the tools**
 
 Give me SLACK or kill me - I build software that:
+
 - Has chance for chaos and personality
 - Reduces friction to empower people  
 - Makes intimidating stuff approachable
-- Works the way you think, not the way computers think
+- Gives the tools to the people
+- Works the way we think, not the way computers think
+- Can't and won't scale
+- Does not have integrations
 
 ## 🛠 Things I Make
 
