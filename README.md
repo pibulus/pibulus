@@ -10,7 +10,7 @@ SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
 ## 🎯 Currently Working On
 
-**[Button Studio](https://github.com/pibulus/button-studio)** - API button design studio  
+**[Button Studio](https://github.com/pibulus/button-studio)** -  Button design / Interactive API studio  
 *Customizable juicy lush buttons for single use applications*
 
 **[RackOff](https://github.com/pibulus/rackoff)** - Clean up your files lickety split
@@ -21,7 +21,7 @@ SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
 
 ## ⭐ Philosophy
 
-**people not robots** **democatrize the tools**
+**people not robots** - **democatrize the tools**
 
 Give me SLACK or kill me - I build software that:
 
