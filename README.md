@@ -3,7 +3,10 @@
 ![screenshot 33 Medium](https://github.com/user-attachments/assets/bd7c219b-58b6-4f0f-993e-07d829598e79)
 
 
-*I'm a Mexican Australian building fun things that have personality, utility, and soul. Will not work or build for evil.*
+*I'm a Mexican Australian building fun things that have personality, utility, and soul."
+
+Will not work or build for evil.
+
 *I'm a Libra. My favourite band is the B52's, and my cats name is Newt.                   
 
 SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
