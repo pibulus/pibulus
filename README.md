@@ -1,54 +1,49 @@
-# 👋 Hey, I'm Pablo Andres
+# Hey, I'm Pablo Andres
 
-  ![screenshot 33 Medium](https://github.com/user-attachments/assets/bd7c219b-58b6-4f0f-993e-07d829598e79)
+![Pablo GitHub profile banner](https://github.com/user-attachments/assets/bd7c219b-58b6-4f0f-993e-07d829598e79)
 
-  I'm a Mexican-Australian building fun things that have personality, utility, and soul.
+I'm a Mexican-Australian in Melbourne building small useful software with personality, utility, and soul.
 
-  Will not work or build for evil.
+Will not work or build for evil. People, not robots.
 
-  I'm a Libra. My favourite band is the B-52's, and my cat's name is Newt.
+SOFTWARE IS POLITICS. FREE PALESTINE.
 
-  SOFTWARE IS POLITICS. FREE PALESTINE. 🇵🇸
+## Building Right Now
 
-  ## 🎯 Building Right Now
+**[TalkType](https://github.com/pibulus/talktype)** - Voice-to-text with a little ghost
 
-  **[Button Studio](https://github.com/pibulus/button-studio)** - Design buttons that feel alive
-  *Interactive API for juicy, satisfying buttons. Make boring clicks delightful.*
+A fast PWA for live dictation, offline transcription, and quick editable text.
 
-  **[RackOff](https://github.com/pibulus/rackoff)** - Desktop cleaning with attitude
-  *Mac app that makes filing files actually satisfying. Drag, drop, done.*
+**[ZipList](https://github.com/pibulus/ziplist)** - Shared lists without account sludge
 
-  **[Spellbreak](https://github.com/pibulus/spellbreak)** - Mystical break reminder
-  *Unskippable screen breaks with generative wisdom and floating smoke. Take a damn break.*
+A tiny list app for groceries, parties, and the kind of planning that should not need a login.
 
-  ##  Philosophy
+**[Button Studio](https://github.com/pibulus/button-studio)** - Buttons that feel alive
 
-  Give me SLACK or kill me 
+An interactive tool for designing juicy, satisfying interface buttons.
 
-  I build stuff that:
-  - Has room for chaos and personality
-  - Reduces friction, empowers people
-  - Makes intimidating tech approachable
-  - Can't and won't scale (that's a feature)
+## What I Like Building
 
-  ## 🛠 Things I Make
+- Small tools that do one thing clearly.
+- Interfaces with warmth, restraint, and a bit of mischief.
+- Software that lowers friction instead of manufacturing dependence.
+- Local-first and privacy-aware workflows where they make sense.
+- Things that are useful before they are scalable.
 
-  **🎵 Creative Apps**
-  Voice transcription with [ghost friends](https://github.com/pibulus/talktype) • [Gibberish lyrics 
-  capture](https://github.com/pibulus/riffrap) • [Voice journaling](https://github.com/pibulus/daysay)
+## Project Shelf
 
-  **🎮 macOS Apps**
-  [Audio processing chaos engine](https://github.com/pibulus/hexbloop) • [Desktop 
-  cleaning](https://github.com/pibulus/rackoff) • [Mystical screen breaks](https://github.com/pibulus/spellbreak)
+**Voice and text:** [TalkType](https://github.com/pibulus/talktype), [RiffRap](https://github.com/pibulus/riffrap), [DaySay](https://github.com/pibulus/daysay)
 
-  **️ Developer Tools**
-  [Git made friendly](https://github.com/pibulus/git-monkey) • [Todo lists by voice](https://github.com/pibulus/ziplist)
-  • [System maintenance joy](https://github.com/pibulus/house-keeper)
+**Utility web apps:** [ZipList](https://github.com/pibulus/ziplist), [QRBuddy](https://github.com/pibulus/qrbuddy), [Button Studio](https://github.com/pibulus/button-studio)
 
-  **🌐 Web Experiments**
-  [Journey-style multiplayer presence](https://github.com/pibulus/ambient-presence) for any website
+**Developer and system tools:** [Git Monkey](https://github.com/pibulus/git-monkey), [House Keeper](https://github.com/pibulus/house-keeper)
 
-  **Website**: [yay.omg.lol](https://yay.omg.lol/)
+**Experiments:** [Ambient Presence](https://github.com/pibulus/ambient-presence)
 
-  ---
-  compression = simplicity = elegance = grace = joy
+## Philosophy
+
+Digital hygiene. Human scale. Fewer moving parts. More care in the parts that remain.
+
+compression = simplicity = elegance = grace = joy
+
+Website: [yay.omg.lol](https://yay.omg.lol/)
