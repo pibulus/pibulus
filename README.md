@@ -1,11 +1,3 @@
-# Hey, I'm Pablo Andres
-
-![Pablo GitHub profile banner](https://github.com/user-attachments/assets/bd7c219b-58b6-4f0f-993e-07d829598e79)
-
-I'm a Mexican-Australian in Melbourne building small useful software with personality, utility, and soul.
-
-Will not work or build for evil. People, not robots.
-
 SOFTWARE IS POLITICS. FREE PALESTINE.
 
 ## Building Right Now
@@ -28,7 +20,6 @@ An interactive tool for designing juicy, satisfying interface buttons.
 - Interfaces with warmth, restraint, and a bit of mischief.
 - Software that lowers friction instead of manufacturing dependence.
 - Local-first and privacy-aware workflows where they make sense.
-- Things that are useful before they are scalable.
 
 ## Project Shelf
 
