@@ -2,7 +2,7 @@ SOFTWARE IS POLITICS. FREE PALESTINE.
 
 ## The SoftStack Shelf — Pocket Tools for Humans
 
-Small, local-first tools with warmth, restraint, and a bit of mischief. Zero accounts, no subscriptions, no data harvesting.
+Small, ethical tools with warmth. Can't scale won't scale. Don't play well with others. 
 
 ### Voice & Brain
 - **[TalkType](https://talktype.app)** — Voice notepad with a little ghost. Live dictation, 96MB on-device Whisper mode, style transforms, and zero-account QR Passport sync. Also on **[macOS Menu Bar](https://talktype.app/mac)** & **[Chrome](https://talktype.app/extension)**.
