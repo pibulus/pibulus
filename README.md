@@ -1,6 +1,6 @@
 SOFTWARE IS POLITICS. FREE PALESTINE.
 
-## The SoftStack Shelf — Pocket Tools for Humans
+## Pocket Tools for Nice People
 
 Small, ethical tools with warmth. Can't scale won't scale. Don't play well with others. 
 
